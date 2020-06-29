@@ -1,0 +1,6 @@
+name: Stars
+version: ${project.version}
+main: wtf.violet.stars.Stars
+api-version: 1.15
+authors: [violetwtf]
+description: Counts nether stars
